@@ -1,0 +1,32 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.error-form-field {
+  color: #bf1650;
+}
+
+.error-form-field::before {
+  display: inline;
+  content: "⚠ ";
+}
+.added {
+  box-shadow: rgba(0, 0, 0, 0.3) 9px 9px 10px 0px;
+}
+.page-header {
+  justify-content: space-between;
+}
+
+.list .action {
+  cursor: pointer;
+}
+.meal-container {
+  border: #bf1650;
+}
+.react-daterange-picker__range-divider {
+  margin-right: 15px;
+}
+.w-45 {
+  width: 45%;
+  float: right;
+}

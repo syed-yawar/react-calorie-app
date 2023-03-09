@@ -1,0 +1,12 @@
+:local(.header_title){
+    font-weight: bold;
+}
+
+:local(.form_body){
+    width: 100%!important;
+}
+
+:local(.invite_detail_header){
+    text-align: center!important;
+    margin-top: 1rem!important;
+}
